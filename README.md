@@ -12,12 +12,10 @@
 <b>[주최 / 주관]</b><br>
 데이콘
 
-
-<b>[설명]</b><br>
-- directory<br>
+- <b>*dir*</b><br>
 another - 최종 결과물 이전의 분석 코드 & 분석결과 파일<br>
 dataset - train, test 데이터셋<br>
-- file<br>
+- <b>*file*</b><br>
 baseline.ipynb - baseline 코드<br>
 eda.ipynb - eda 코드<br>
 ver2.ipynb - 최종 데이터 분석 결과물 코드<br>
